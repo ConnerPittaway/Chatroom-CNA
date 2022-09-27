@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "yZij7L3G0FwwB6lNNICNDYTvIuWyCt7aDXn2ePCtSf/1vowq61xawKaBoSu9pVPo4RD5V0SUyW8Vw2zA45+kOA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\conne\\Desktop\\Client and Server\\Packets\\Packets.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\conne\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\conne\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

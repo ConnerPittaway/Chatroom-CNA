@@ -1,0 +1,30 @@
+C:\Users\conne\source\repos\Client and Server\Client and Server\bin\Debug\Client and Server.exe.config
+C:\Users\conne\source\repos\Client and Server\Client and Server\bin\Debug\Client and Server.exe
+C:\Users\conne\source\repos\Client and Server\Client and Server\bin\Debug\Client and Server.pdb
+C:\Users\conne\source\repos\Client and Server\Client and Server\bin\Debug\Packets.dll
+C:\Users\conne\source\repos\Client and Server\Client and Server\bin\Debug\Packets.pdb
+C:\Users\conne\source\repos\Client and Server\Client and Server\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\conne\source\repos\Client and Server\Client and Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\conne\source\repos\Client and Server\Client and Server\obj\Debug\Server.csproj.CopyComplete
+C:\Users\conne\source\repos\Client and Server\Client and Server\obj\Debug\Client and Server.exe
+C:\Users\conne\source\repos\Client and Server\Client and Server\obj\Debug\Client and Server.pdb
+C:\Users\conne\OneDrive - Staffordshire University\CNA\Client and Server\Client and Server\bin\Debug\Client and Server.exe.config
+C:\Users\conne\OneDrive - Staffordshire University\CNA\Client and Server\Client and Server\bin\Debug\Client and Server.exe
+C:\Users\conne\OneDrive - Staffordshire University\CNA\Client and Server\Client and Server\bin\Debug\Client and Server.pdb
+C:\Users\conne\OneDrive - Staffordshire University\CNA\Client and Server\Client and Server\bin\Debug\Packets.dll
+C:\Users\conne\OneDrive - Staffordshire University\CNA\Client and Server\Client and Server\bin\Debug\Packets.pdb
+C:\Users\conne\OneDrive - Staffordshire University\CNA\Client and Server\Client and Server\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\conne\OneDrive - Staffordshire University\CNA\Client and Server\Client and Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\conne\OneDrive - Staffordshire University\CNA\Client and Server\Client and Server\obj\Debug\Server.csproj.CopyComplete
+C:\Users\conne\OneDrive - Staffordshire University\CNA\Client and Server\Client and Server\obj\Debug\Client and Server.exe
+C:\Users\conne\OneDrive - Staffordshire University\CNA\Client and Server\Client and Server\obj\Debug\Client and Server.pdb
+C:\Users\conne\Desktop\Client and Server\Client and Server\bin\Debug\Client and Server.exe.config
+C:\Users\conne\Desktop\Client and Server\Client and Server\bin\Debug\Client and Server.exe
+C:\Users\conne\Desktop\Client and Server\Client and Server\bin\Debug\Client and Server.pdb
+C:\Users\conne\Desktop\Client and Server\Client and Server\bin\Debug\Packets.dll
+C:\Users\conne\Desktop\Client and Server\Client and Server\bin\Debug\Packets.pdb
+C:\Users\conne\Desktop\Client and Server\Client and Server\obj\Debug\Server.csproj.AssemblyReference.cache
+C:\Users\conne\Desktop\Client and Server\Client and Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\conne\Desktop\Client and Server\Client and Server\obj\Debug\Server.csproj.CopyComplete
+C:\Users\conne\Desktop\Client and Server\Client and Server\obj\Debug\Client and Server.exe
+C:\Users\conne\Desktop\Client and Server\Client and Server\obj\Debug\Client and Server.pdb
